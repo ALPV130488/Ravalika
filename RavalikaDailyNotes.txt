@@ -1,0 +1,129 @@
+
+ON-1 ,OFF-0 	Ascii,Unicode(18)---a-98-100010101	
+
+s.l:-desinging websites
+
+p.l:-devloping softwares
+
+		windows,driver ,
+		
+
+							computer languages
+							
+				scripting languages			programming languages
+				
+
+							(procedure oriented p.l)pop				oop(object oriented p.l)
+								basic,cobalt,....						java,c++,lisp,.net....
+	oop features:-
+	
+	SECURITY :- Encapsulation,Abstraction
+	
+	PERFROMANCE :-Ploymorphism,Inheritance
+		
+		
+	java:-  oops 	 oopl
+	
+	(1)platform independency :-
+	
+	(2)Garbage collector :-
+		
+		
+		sun microsystems:-
+		=================
+		
+		greentalk(.gt)----------->oak -------------->java(.java)
+		
+		jdk 1.0-------------------------------------->jdk 22 [8,11,17,21]
+		
+		to check :-
+		
+		cmd>java --version
+		
+		
+		java in 3 editions :-
+		
+		jse/j2se :-core java [no client - sever] ex :-calculator---->standalone app's
+		
+		jee/j2ee :-Adv java [client -server] ex:-zomato---->	distributed web app's
+		
+		jme/j2me :-micro core java ----->mobile app's
+		
+		
+		
+		Variables:-
+		
+		syntax:-
+		
+		datatype varname = 34;
+		
+		
+		(1)local Variables	:-within the method body	(2)Global variables:-outside the meth
+								
+														static g.v 					instance g.v
+		
+	
+syntax:-
+=======
+
+(1)static :- static datatype varname = 34;
+(2)instance :- datatype varname = 34;
+
+
+memory space:-
+=============
+static :- static prop's(var,methods,constr) will gets the memory space only once when the 
+				class loading into the jvm
+
+
+instance :- instance prop's will gets the memory space for every object creation
+
+
+access:-
+=======
+
+static :- these can be accessed by class reference
+
+instance :- these prop's can be accessed by object reference
+
+memory area:-
+============
+
+static :- method area
+
+instance:- heap area
+
+usage:-
+=====
+
+static :- to store the common data
+
+instance :- to store the unique data
+		
+	Operators:-
+==============	
+		
+		ULTRA AB
+		
+		
+		a  +  b
+		
+		
+		ecllipse ide shortcut's:-
+		
+		ctrl+/ ------------>comments
+		
+		ctrl+ space ------->suggestion
+		
+		ctrl+shift+o ------>default imports
+		
+		ctrl+shift+/  ------>mutli line comments
+		
+
+		control statements:-
+		
+		(1)conditional statements
+		
+		(2) Iterative statements
+		
+		(3)Break statements
