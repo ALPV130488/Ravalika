@@ -127,3 +127,72 @@ instance :- to store the unique data
 		(2) Iterative statements
 		
 		(3)Break statements
+		
+		
+		method:- set of statements where altogether perform a task
+		
+		
+		syntax/signature :- 
+		
+			accessmodifier returntype methodname(params...){
+				//method body
+			
+			}
+			
+			bases on the syntax :- 2 types
+			
+	static :-
+	
+	accessmodifier static returntype methodname(params...){
+				//method body
+			
+			}
+	
+	
+	
+	Dynamic:-
+	accessmodifier returntype methodname(params...){
+				//method body
+			
+			}
+			
+			
+	class = variables + methods 
+	
+	class = class member's + member functions
+	
+	
+	classname obj  = new classname();
+	
+	
+	Inheritance:-Accquiring parents class features to the child class
+	===========
+						extends 				implements
+					class ---->class
+	
+					
+	class A{       //parent /super
+	100 methods
+	}
+	
+	class B extends A {   //child/sub
+	//20 methods  + 100 method  ==120 methodds
+	}
+	
+	
+	* MI is not supported in java @class level
+	
+	* MI is supported in java @interface level
+	
+	
+	
+	class A{			class B	{				
+	add(a,b)			add(a,b)
+	(a+b);				(a*b);
+	}					}
+	
+	class C extends A,B{
+	
+	obj.add(4,7)
+	
+	}
